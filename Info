@@ -2,7 +2,7 @@
   "bot_app_version":False,
   "bot_version":"1.1.0",
   "is_tenkaichi_budokai": False,
-  "is_maintenance": False,
+  "is_maintenance": True,
   "is_coop_period": False,
 }
 
