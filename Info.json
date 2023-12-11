@@ -1,6 +1,6 @@
 {
   "bot_app_version": false,
   "bot_version": "1.0.0",
-  "is_maintenance": False,
+  "is_maintenance": false,
   "is_coop_period": false
 }
