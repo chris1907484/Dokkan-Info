@@ -1,2 +1,3 @@
-# Dokkan-Info
-My app info
+it is a dokkan battle bot
+Join in my discord server: 
+https://discord.com/invite/aSaKZaCaJt
